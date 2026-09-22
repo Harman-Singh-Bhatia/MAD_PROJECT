@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MAD_PROJECT_FINAL</string>
+    <string name="m1">Username</string>
+    <string name="m2">Password</string>
+    <string name="m3">Login</string>
+    <string name="m4"></string>
+    <string name="m5">Register</string>
+    <string name="m6">Login Page</string>
 </resources>
