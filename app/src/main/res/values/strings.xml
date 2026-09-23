@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MAD_PROJECT_FINAL</string>
+    <string name="app_name">PET_CARE_MANAGEMENT</string>
+    <string name="m1">Email</string>
+    <string name="m2">Password</string>
+    <string name="m3">Login</string>
+    <string name="m4">Forgot Password</string>
+    <string name="m5">Register</string>
+    <string name="m6">PET CARE MANAGEMENT</string>
+    <string name="m12">Enter Email</string>
+    <string name="m13">Reset Password</string>
+    <string name="m14">Enter your email and click reset password</string>
 </resources>
