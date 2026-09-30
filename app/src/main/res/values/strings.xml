@@ -6,7 +6,37 @@
     <string name="m4">Forgot Password</string>
     <string name="m5">Register</string>
     <string name="m6">PET CARE MANAGEMENT</string>
+    <string name="m7">Name</string>
+    <string name="m8">Email</string>
+    <string name="m9">Password</string>
+    <string name="m10">Register</string>
+    <string name="m11">Registration Closed</string>
     <string name="m12">Enter Email</string>
     <string name="m13">Reset Password</string>
     <string name="m14">Enter your email and click reset password</string>
+    <string name="m15">Welcome to Pet Care Management</string>
+    <string name="m16">My Pets</string>
+    <string name="m17">Pet Health</string>
+    <string name="m18">Appointments</string>
+    <string name="m19">Pet Records</string>
+    <string name="m20">Pet Name</string>
+    <string name="m21">Pet Age</string>
+    <string name="m22">Pet Type</string>
+    <string name="m23">Add Pet</string>
+    <string name="m24">Pet Health</string>
+    <string name="m25">Pet Name</string>
+    <string name="m26">Vaccination Details</string>
+    <string name="m27">Health Issue</string>
+    <string name="m28">Save Health Details</string>
+    <string name="m29">Appointments</string>
+    <string name="m30">Pet Name</string>
+    <string name="m31">Appointment Date</string>
+    <string name="m32">Appointment Details</string>
+    <string name="m33">Save Appointment</string>
+    <string name="m34">Pet Records</string>
+    <string name="m35">Pet Name</string>
+    <string name="m36">Medical Records</string>
+    <string name="m37">Previous Treatment</string>
+    <string name="m38">Save Records</string>
+
 </resources>
