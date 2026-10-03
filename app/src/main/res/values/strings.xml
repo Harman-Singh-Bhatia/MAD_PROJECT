@@ -9,4 +9,13 @@
     <string name="m12">Enter Email</string>
     <string name="m13">Reset Password</string>
     <string name="m14">Enter your email and click reset password</string>
+    <string name="m20">Pet Name</string>
+    <string name="m21">Pet Age</string>
+    <string name="m22">Pet Type</string>
+    <string name="m23">Add Pet</string>
+    <string name="m24">Pet Health</string>
+    <string name="m25">Pet Name</string>
+    <string name="m26">Vaccination Details</string>
+    <string name="m27">Health Issue</string>
+    <string name="m28">Save Health Details</string>
 </resources>
