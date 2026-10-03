@@ -18,4 +18,14 @@
     <string name="m26">Vaccination Details</string>
     <string name="m27">Health Issue</string>
     <string name="m28">Save Health Details</string>
+    <string name="m29">Appointments</string>
+    <string name="m30">Pet Name</string>
+    <string name="m31">Appointment Date</string>
+    <string name="m32">Appointment Details</string>
+    <string name="m33">Save Appointment</string>
+    <string name="m34">Pet Records</string>
+    <string name="m35">Pet Name</string>
+    <string name="m36">Medical Records</string>
+    <string name="m37">Previous Treatment</string>
+    <string name="m38">Save Records</string>
 </resources>
