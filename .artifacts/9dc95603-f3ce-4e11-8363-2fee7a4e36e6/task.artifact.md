@@ -1,0 +1,4 @@
+- [x] Update `activitymain3.xml` layout for Registration (Name, Email, Password, Register button)
+- [x] Update `MainActivity3.java` with registration validation logic
+- [x] Update `MainActivity.java` to open `MainActivity3` when Register is clicked
+- [x] Verify build successfully using gradle build
